@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "mDAG"]
+	path = mDAG
+	url = https://github.com/cran/mDAG
+	shallow = true
+	registered = true
 [submodule "SMUT"]
 	path = SMUT
 	url = https://github.com/wjzhong/smut
