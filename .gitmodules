@@ -2,9 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "mDAG"]
-	path = mDAG
-	url = https://github.com/cran/mDAG
 [submodule "SMUT"]
 	path = SMUT
 	url = https://github.com/wjzhong/smut
+[submodule "mDAG"]
+	path = mDAG
+	url = https://github.com/cran/mDAG
